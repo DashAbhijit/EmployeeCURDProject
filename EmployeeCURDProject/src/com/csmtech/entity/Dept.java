@@ -6,7 +6,7 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+//it's entity class
 @Entity
 @Table(name="dept")
 public class Dept implements Serializable {
